@@ -6,7 +6,6 @@ My name is Beatriz but you can call me Yawn.
 I'm a UX/UI Designer and a Web Design/Developer.
 
 - 🔭 I’m currently working on improving my repositories.
-- 🌱 I work as a UX/UI Designer and Web Designer/Developer
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I can do a very good yoshi voice
 
