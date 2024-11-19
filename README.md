@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 My name is Beatriz but you can call me Yawn.
-I'm a UX/UI Designer and a Web Design/Developer.
+I'm a UX/UI Designer and a Web Designer/Developer.
 
 - 🔭 I’m currently working on improving my repositories.
 - 😄 Pronouns: She/Her
