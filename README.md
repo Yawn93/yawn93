@@ -3,9 +3,10 @@
 ### Hi there 👋
 
 My name is Beatriz but you can call me Yawn.
-I'm a UX/UI Designer and a Web Designer/Developer.
+I'm a UX Engineer - or as people call it, a unicorn.
 
-- 🔭 I’m currently working on improving my repositories.
+- 🔭 I’m currently working on improving my repositories
+- 🪄 I prefer to work with React
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I can do a very good yoshi voice
 
