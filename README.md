@@ -8,7 +8,7 @@ I'm a UX Engineer - or as people call it, a 🦄
 - 🔭 I’m currently working on improving my repositories
 - 🪄 I prefer to work with React
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I can do a very good yoshi voice
+- ⚡ Fun fact: I can do a very good yoshi voice, and I'm learning Mandarin.
 
 Let's connect! 🙌
 
