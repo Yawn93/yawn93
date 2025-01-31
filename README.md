@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 My name is Beatriz but you can call me Yawn.
-I'm a UX Engineer - or as people call it, a unicorn.
+I'm a UX Engineer - or as people call it, a 🦄
 
 - 🔭 I’m currently working on improving my repositories
 - 🪄 I prefer to work with React
